@@ -1,0 +1,54 @@
+Consumer Activities during : Sun Jan  7 20:03:58 2018
+Successfully deleted job , ID = '11455', Priority = '0'
+Successfully deleted job , ID = '11460', Priority = '0'
+Successfully deleted job , ID = '11461', Priority = '0'
+Successfully deleted job , ID = '11470', Priority = '0'
+Successfully deleted job , ID = '11471', Priority = '0'
+Successfully deleted job , ID = '11506', Priority = '0'
+Successfully deleted job , ID = '11507', Priority = '0'
+Successfully deleted job , ID = '11508', Priority = '0'
+Successfully deleted job , ID = '11515', Priority = '0'
+Jobs left after deletion cycle : 25
+Successfully deleted job , ID = '11453', Priority = '1'
+Successfully deleted job , ID = '11454', Priority = '1'
+Successfully deleted job , ID = '11456', Priority = '1'
+Successfully deleted job , ID = '11458', Priority = '1'
+Successfully deleted job , ID = '11459', Priority = '1'
+Successfully deleted job , ID = '11462', Priority = '1'
+Successfully deleted job , ID = '11464', Priority = '1'
+Successfully deleted job , ID = '11466', Priority = '1'
+Successfully deleted job , ID = '11469', Priority = '1'
+Successfully deleted job , ID = '11472', Priority = '1'
+Jobs left after deletion cycle : 24
+Successfully deleted job , ID = '11523', Priority = '2'
+Successfully deleted job , ID = '11524', Priority = '2'
+Successfully deleted job , ID = '11457', Priority = '2'
+Successfully deleted job , ID = '11530', Priority = '2'
+Successfully deleted job , ID = '11532', Priority = '2'
+Successfully deleted job , ID = '11463', Priority = '2'
+Successfully deleted job , ID = '11465', Priority = '2'
+Successfully deleted job , ID = '11468', Priority = '2'
+Successfully deleted job , ID = '11509', Priority = '2'
+Successfully deleted job , ID = '11510', Priority = '2'
+Successfully deleted job , ID = '11512', Priority = '2'
+Successfully deleted job , ID = '11513', Priority = '2'
+Successfully deleted job , ID = '11514', Priority = '2'
+Successfully deleted job , ID = '11516', Priority = '2'
+Successfully deleted job , ID = '11519', Priority = '2'
+Successfully deleted job , ID = '11520', Priority = '2'
+Jobs left after deletion cycle : 19
+Successfully deleted job , ID = '11522', Priority = '0'
+Successfully deleted job , ID = '11540', Priority = '0'
+Successfully deleted job , ID = '11528', Priority = '0'
+Successfully deleted job , ID = '11529', Priority = '0'
+Successfully deleted job , ID = '11531', Priority = '0'
+Successfully deleted job , ID = '11550', Priority = '0'
+Jobs left after deletion cycle : 17
+Successfully deleted job , ID = '11536', Priority = '1'
+Successfully deleted job , ID = '11526', Priority = '1'
+Jobs left after deletion cycle : 0
+Request for termination has been received !
+All processes have been terminated !
+
+Request for termination has been received !
+All processes have been terminated !

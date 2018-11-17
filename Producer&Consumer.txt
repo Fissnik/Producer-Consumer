@@ -1,0 +1,8 @@
+
+Production system started ! -- Sun Jan  7 20:03:22 2018
+
+Consuming system started ! -- Sun Jan  7 20:03:58 2018
+
+System closed  succesfully at : Sun Jan  7 20:05:18 2018 
+ Counting total of 5 job production cycles and 21 jobs left unprocessed !
+-----------------------------------------
